@@ -1,2 +1,2 @@
 # Roblox-Thangs
-## sigma
+Here you will find all of the scripts for roblox :)
